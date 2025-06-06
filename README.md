@@ -7,9 +7,9 @@
 ## 📌 What it does
 
 - Sends an authenticated API request to Foodpanda
-- Fetches all past orders (up to 500)
+- Fetches all past orders
 - Extracts `total_value` from each order
-- Prints your lifetime spend in PKR (with thousands separator)
+- Prints your lifetime spend in PKR
 
 ---
 
